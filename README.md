@@ -24,9 +24,13 @@ This web page has some functionality pictured in the animated Gif below. You'll 
 
 You won't use any libraries or frameworks for this project. It should completed wholey with vanilla HTML, CSS, and JS. 
 
-## Submission 
+## Submission Instructions
 
-Submit your completed assessment to GradeScope. 
+To submit this project for evaluation fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfGNcBEbVi3IvjXcM57AT9_3Z8DMA_OLKGq0PVS7m7pKDwjnA/viewform?usp=sf_link) with your information.
+
+In your submission also include a short screen capture video of you explaning your code like you would if you were demoing a project in class (you don't need to live code, just finish your work and then make the video).
+
+Here are some [instructions](https://support.apple.com/en-us/HT208721) about how to use Quicktime to record a video. 
 
 ## Challenge 1 - HTML
 
