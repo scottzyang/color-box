@@ -67,9 +67,10 @@ The goal of this section is write JavaScript that will create the functionality 
 
 **Overview:** Changing the values in the inputs in the upper right should display those values in the in the lower left, and change the width, height, and color of the box in the lower right. Watch the animated gif example it shows the features in use live. 
 
-1. Use event listeners to display values entered in the form elements in the box in the lower left. See the example above. 
-	- Changing the width in the width box should display the value of the width followed by px. 
-	- Changing the height should display the value entered followed by px.
-	- Changing the color should display the color as a hex value. 
-2. When the values are entered the the box in the lower right corner should display a rectangle at the size of the numbers entered in px, and the color of the color entered. 
+- Use JavaScript to reference DOM elements. This is a general instruction. You'll need a reference to the inputs and display elements. 
+- Use event listeners to display values entered in the form elements in the box in the lower left. See the example above. 
+	- Changing the width in the width input should display the value of the width followed by px in the box in the lower left. 
+	- Changing the height in the height input should display the value in the lower left.
+	- Changing the color should display the color value in the lower left.
+- When the values are entered in the upper right the the box in the lower right should display a rectangle at the size of the numbers entered in px, and the color of the color entered.
 
