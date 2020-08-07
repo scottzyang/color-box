@@ -1,6 +1,6 @@
 # FEW Assessment
 
-Take this diagnostic if you have previous experience coding in [Javascript]. If you don’t, or this challenge is way to difficult, that is OKAY. We will eventually teach you these skills. The diagnostic helps staff gauge your skill level to identify who might place out of the intro level material. You will be notified if this placement-out applies to you. Skip this diagnostic if the material is way too challenging for you.
+Take this diagnostic if you have previous experience coding in [Javascript]. If you don’t, or this challenge is way too difficult, that is OKAY. We will eventually teach you these skills. The diagnostic helps staff gauge your skill level to identify who might place out of the intro level material. You will be notified if this placement-out applies to you. Skip this diagnostic if the material is way too challenging for you.
 
 This assessment is to measure your skills and determine whether you should take Web 1.0. While it can't test everything, solving the problems here will show that you have requisite knowledge to skip Web 1.0. 
 
@@ -22,9 +22,9 @@ This web page has some functionality pictured in the animated Gif below. You'll 
 
 ![Example](example.gif)
 
-You won't use any libraries or frameworks for this project. It should completed wholey with vanilla HTML, CSS, and JS. 
+You won't use any libraries or frameworks for this project. It should completed wholley with vanilla HTML, CSS, and JS. 
 
-The whole problem should saolved with HTML elements, CSS, and JavaScript. You won't need to use canvas, WebGL, SVG or anything than standard tags! 
+The whole problem should solved with HTML elements, CSS, and JavaScript. You won't need to use canvas, WebGL, SVG or anything than standard tags! 
 
 ## Submission Instructions
 
