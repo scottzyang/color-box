@@ -1,6 +1,6 @@
 # FEW Assessment
 
-The problem presented here is meant to simulate a coding interview. Use this as a a way to measure your progress and current ability. The problem covers everything from this class. 
+The problem presented here is meant to simulate a coding interview. Use this as a a way to measure your progress and current ability. The problem includes many of the concepts covered in class and should give you an opportunity to see how much you have mastered. 
 
 This assessment is meant measure your skills in: 
 
