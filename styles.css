@@ -1,0 +1,30 @@
+html {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p, h1, h2 {
+    margin: 5px;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 200px 200px;
+    grid-gap: 1em;
+}
+
+div {
+    padding: 1em;
+    border: solid 2px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+input {
+    padding: 0.5em;
+    border: solid 2px black;
+}
