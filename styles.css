@@ -13,7 +13,26 @@ body {
     display: grid;
     grid-template-columns: 200px 200px;
     grid-template-rows: 200px 200px;
+    grid-template-areas: "tl tr"
+                         "bl br";
     grid-gap: 1em;
+}
+
+/* unsure if this portion is necessary */
+#top-left {
+    grid-area: tl;
+}
+
+#top-right {
+    grid-area: tr;
+}
+
+#bottom-left {
+    grid-area: bl;
+}
+
+#bottom-right {
+    grid-area: br;
 }
 
 div {
@@ -27,4 +46,10 @@ div {
 input {
     padding: 0.5em;
     border: solid 2px black;
+}
+
+/* default height/width values for now */
+#color-box {
+    width: 100px;
+    height: 60px;
 }
