@@ -35,12 +35,15 @@ body {
     grid-area: br;
 }
 
-div {
-    padding: 1em;
-    border: solid 2px black;
+.grid-box {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+div {
+    padding: 1em;
+    border: solid 2px black;
 }
 
 input {
@@ -51,5 +54,5 @@ input {
 /* default height/width values for now */
 #color-box {
     width: 100px;
-    height: 60px;
+    height: 100px;
 }
